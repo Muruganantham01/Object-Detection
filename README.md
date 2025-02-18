@@ -37,10 +37,10 @@ The *Object Detection Project* utilizes the YOLOv7 (You Only Look Once) model to
 
 Install dependencies via requirements.txt or by running:
 bash
-pip install torch opencv-python pandas matplotlib scikit-learn
+`pip install torch opencv-python pandas matplotlib scikit-learn`
 
 
-## Steps for the Project:
+## Steps used for the Project:
 1. *Set up the Environment*:
    - Ensure you have Python installed (preferably Python 3.7+).
    - Install the necessary libraries and dependencies (PyTorch, OpenCV, etc.) via pip.
