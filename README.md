@@ -18,12 +18,6 @@ The *Object Detection Project* utilizes the YOLOv7 (You Only Look Once) model to
 4. *Pandas*: A powerful library for data manipulation and analysis, particularly useful for handling large datasets and organizing results.
 5. *Matplotlib* (optional for visualization): Often used for visualizing results, like plotting detection outputs.
 
-## Available Scripts:
-1. *train.py*: Script for training the YOLOv7 model on custom or predefined datasets.
-2. *detect.py*: Script for detecting objects in new images or videos using the pre-trained model.
-3. *utils.py*: Utility functions for data processing, loading images, and displaying results (bounding boxes, labels).
-4. *test.py*: For testing the model's performance on a test dataset, evaluating metrics like mAP (mean Average Precision).
-5. *preprocess.py*: For preprocessing the dataset (resizing, normalization) before feeding it to the model.
 
 ## Dependencies:
 1. *Python* (version 3.x)
